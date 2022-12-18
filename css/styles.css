@@ -1,0 +1,130 @@
+body{
+    margin: 30px 0 0 30px;
+}
+.Header-container{
+    height: 30px;
+    text-align: left;
+}
+.logo-html{
+    display: inline;
+    height: 30px;
+    width: 100px;
+    vertical-align: bottom;
+}
+.Header-Items{
+    display: inline;
+    height: 30px;
+    margin-left: 50px;
+    color: #3D58A6;
+    font-size: 22px;
+}
+.Header-Items a{
+    margin-right: 25px;
+}
+.active{
+    color: #EE4036;
+}
+.Date{
+    margin-top: 40px;
+    width: 52px;
+    height: 52px;
+    color: #FFFFFF;
+    font-size: 48px;
+    background-color: #3D58A6;
+    box-sizing: border-box;
+}
+.Month {
+    color: #3D58A6;
+    font-size: 22px;
+    margin-bottom: 17px;
+}
+.Title {
+    font-size: 20px;
+    width: 743px;
+    height: 27px;
+    margin: 13px 0px 20px 0px;
+    color: #000000;
+}
+.newsimg{
+    vertical-align: top;
+}
+.news-container{
+    display: inline-block;
+    width: 929px;
+    margin-left: 40px;
+    font-size: 16px;
+}
+footer {
+    margin-top: 30px;
+}
+footer{
+	margin-top: 30px;
+}
+.verticalline{
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	margin-left: 35px;
+	margin-right: 30px;
+	display: inline-block;
+}
+.banner{
+    width: 1170px;
+    height: 460px;
+    margin-left: 70px;
+    margin-top: 80px;
+    margin-bottom: 110px;
+}
+.featured{
+    margin-left: 70px;
+}
+.featured h4{
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.feature{
+    width: 570px;
+    height: 225px;
+    display: inline-block;
+    border: #707070;
+    background-color: #F2F2F2;
+    padding-top: 13px;
+    padding-left: 20px;
+}
+.feature h6{
+    font-size: 22px;
+    color: #3D58A6;
+    margin-bottom: 12px;
+}
+.GR10{
+    display: inline;
+    width: 100px;
+    height: 130px;
+    vertical-align: bottom;
+}
+.feature p {
+    color: #333333;
+    font-size: 20px;
+    width: 355px;
+    height: 144px;
+    display: inline-block;
+    margin-left: 61px;
+}
+.contactinf{
+    height: 570px;
+    margin-left: 70px;
+    margin-top: 77px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contacttitle{
+    color: #3D58A6;
+    font-size: 20px;
+}
+iframe{
+    margin-top: 67px;
+    margin-left: 63px;
+}
+article{
+    background-color: #E6E6E6;
+}
